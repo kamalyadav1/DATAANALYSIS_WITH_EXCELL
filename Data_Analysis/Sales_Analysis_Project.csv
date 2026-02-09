@@ -3,6 +3,7 @@ Transaction ID,Date,Product Category,Product Name,Units Sold,Unit Price,Total Re
 10002,2024-01-02,Home Appliances,Dyson V11 Vacuum,1,499.99,499.99,Europe,PayPal
 10003,2024-01-03,Clothing,Levi's 501 Jeans,3,69.99,209.97,Asia,Debit Card
 10004,2024-01-04,Books,The Da Vinci Code,4,15.99,63.96,North America,Credit Card
+
 10005,2024-01-05,Beauty Products,Neutrogena Skincare Set,1,89.99,89.99,Europe,PayPal
 10006,2024-01-06,Sports,Wilson Evolution Basketball,5,29.99,149.95,Asia,Credit Card
 10007,2024-01-07,Electronics,MacBook Pro 16-inch,1,2499.99,2499.99,North America,Credit Card
@@ -238,4 +239,5 @@ Transaction ID,Date,Product Category,Product Name,Units Sold,Unit Price,Total Re
 10237,2024-08-24,Clothing,Nike Air Force 1 Sneakers,3,90,270,Asia,Debit Card
 10238,2024-08-25,Books,The Handmaid's Tale by Margaret Atwood,3,10.99,32.97,North America,Credit Card
 10239,2024-08-26,Beauty Products,Sunday Riley Luna Sleeping Night Oil,1,55,55,Europe,PayPal
+
 10240,2024-08-27,Sports,Yeti Rambler 20 oz Tumbler,2,29.99,59.98,Asia,Credit Card
