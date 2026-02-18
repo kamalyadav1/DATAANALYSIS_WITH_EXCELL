@@ -45,8 +45,8 @@ Open the .xlsx file in Microsoft Excel (preferably 2016 or later) to view the fo
 Author: Kamal Yadav
 First-year B.Tech (CSE - AI & ML)
 <------------------------------------------------------SCREEN SHOT--------------------------------------------------------------------------------------------->
-<img width="430" height="627" alt="Screenshot 2026-02-13 at 1 03 37 AM" src="https://github.com/user-attachments/assets/815188b2-acb1-4439-b964-a97b148ead8a" /> 
-<img width="1020"   height="382" alt="Screenshot 2026-02-18 at 4 17 05 PM" src="https://github.com/user-attachments/assets/c04b0048-e2a7-4352-99d5-860a13c93e65" />
+<img width="1065" height="627" alt="Screenshot 2026-02-13 at 1 03 37 AM" src="https://github.com/user-attachments/assets/815188b2-acb1-4439-b964-a97b148ead8a" /> 
+<img width="1020"   height="613" alt="Screenshot 2026-02-18 at 4 17 05 PM" src="https://github.com/user-attachments/assets/c04b0048-e2a7-4352-99d5-860a13c93e65" />
 <img width="1065" height="613" alt="Screenshot 2026-02-18 at 4 20 00 PM" src="https://github.com/user-attachments/assets/4f843c4e-9689-440d-bc4d-c5788b597f4e" />
 
 
