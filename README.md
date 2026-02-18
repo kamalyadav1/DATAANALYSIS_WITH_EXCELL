@@ -132,6 +132,101 @@ Kamal Yadav B.Tech First Year Student, CSE (AIML)
 <img width="1065" height="613" alt="Screenshot 2026-02-18 at 4 20 00 PM" src="https://github.com/user-attachments/assets/4f843c4e-9689-440d-bc4d-c5788b597f4e" />
 
 
+
+ TATA Motors Stock Market Analysis (Excel)
+ Project Overview
+This project presents a comprehensive stock market analysis of TATA Motors using Microsoft Excel.
+The objective of this project was to analyze historical stock data in terms of:
+	•	Opening Price
+	•	Closing Price
+	•	Volume & Turnover
+	•	Yearly Performance Trends
+By transforming raw NSE stock data into structured insights, this project demonstrates how financial data can be analyzed to understand market trends, volatility, and trading activity.
+
+ Dashboard Highlights
+The dashboard consists of three main analytical sections:
+1. Date vs Closing Amount (Bar Chart)
+	•	Displays yearly closing trends.
+	•	Helps identify peak performance years.
+	•	Highlights major growth and decline periods.
+2. Opening vs Closing Price Trend (Line Chart)
+	•	Compares yearly Open and Close prices.
+	•	Visualizes market movement patterns.
+	•	Identifies bullish and bearish phases.
+3. TELCO vs TATAMOTORS Turnover Comparison
+	•	Shows overall turnover performance.
+	•	Compares historical brand transition impact.
+	•	Highlights liquidity differences.
+
+  Key Features & Tasks
+   Cleaning
+	•	Removed inconsistencies in date formatting.
+	•	Standardized numeric values (Open, Close,).
+	•	Handled missing or blank records.
+   Descriptive Analysis
+	•	Calculated yearly average Open and Close prices.
+	•	Summed Volume and Turnover for liquidity analysis.
+	•	Compared historical TELCO vs TATAMOTORS performance.
+   Data Transformation
+	•	Extracted Year from Date.
+	•	Created calculated fields for:
+	◦	Price Difference (Close - Open)
+	◦	Annual Trends
+	•	Organized data using structured tables.
+   Pivot Tables
+	•	Year-wise stock price summary.
+	•	Symbol-wise turnover comparison.
+	•	Dynamic grouping for trend analysis.
+ Data Visualization
+	•	Clustered Column Charts
+	•	Line Charts (Trend Analysis)
+	•	Comparative Bar Charts
+	•	KPI-style visual representation
+  Technologies Used
+	•	Tool: Microsoft Excel
+	•	Features:
+	◦	Pivot Tables
+	◦	Pivot Charts
+	◦	Line & Column Charts
+	◦	Data Grouping
+	◦	Calculated Fields
+	◦	Conditional Formatting
+	•	Domain: Financial Data Analytics / Stock Market Analysis
+  Insights Derived
+     Market Trend Analysis
+	•	Identified peak growth years.
+	•	Observed sharp declines during market corrections.
+	•	Price Movement Behavior
+	•	Compared Opening vs Closing fluctuations.
+	•	Detected high volatility periods.
+ Liquidity & Turnover
+	•	TATAMOTORS showed significantly higher turnover compared to TELCO.
+	•	Highlighted years with increased investor participation.
+
+   How to Use
+Clone the repository:
+
+
+git clone https://github.com/kamalyadav1/DATAANALYSIS_WITH_EXCELL.git
+
+Navigate to the Stock Market Analysis folder and open the Excel dashboard file.
+<img width="1396" height="613" alt="Screenshot 2026-02-18 at 6 56 07 PM" src="https://github.com/user-attachments/assets/b79427a1-453c-4fff-9fe4-4ffdf6d4d5d6" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 Detailed Formulas: Only basic formula we used here.
