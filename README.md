@@ -75,6 +75,60 @@ macOS Terminal: For managing the project environment and resolving repository st
 Author
 Kamal Yadav — B.Tech First Year Student, CSE (AIML)
 <img width="1020"   height="613" alt="Screenshot 2026-02-18 at 4 17 05 PM" src="https://github.com/user-attachments/assets/c04b0048-e2a7-4352-99d5-860a13c93e65" />
+That is an excellent way to document your progress. Since you are building your portfolio as a B.Tech CSE (AIML) student, presenting these projects with clear technical tasks and measurable insights will really set you ahead.
+
+Based on the images you uploaded, here are professional README.md descriptions for your Online Shipment and Student Performance projects.
+
+1. Online Shipment Data Analysis (Excel)
+Project Overview
+This project involves a multi-dimensional analysis of global shipment and sales data to evaluate business profitability and operational trends. The goal was to identify which shipping modes and product categories drive the highest margins and how profitability has scaled over a four-year period.
+
+Key Features & Tasks
+Time-Series Analysis: Tracked annual profit growth from 2014 to 2017, identifying a consistent upward trend in revenue.
+
+Operational Efficiency: Analyzed "Ship Mode" performance to determine the impact of delivery speed on total profit.
+
+Categorical Profitability: Compared profit margins across Furniture, Office Supplies, and Technology sectors.
+
+Data Visualization: Designed a comprehensive dashboard including:
+
+Horizontal Bar Charts: Showing annual profit growth (reaching over 90,000 in 2017).
+
+Vertical Column Charts: Identifying "Standard Class" as the most profitable shipping mode.
+
+Line & Area Graphs: Visualizing the massive lead of "Technology" in total profit compared to other categories.
+
+3D Bar Charts: Tracking discount trends over time to ensure pricing strategies remained sustainable.
+
+Technologies Used
+Microsoft Excel: Advanced Pivot Tables, Calculated Fields, and Interactive Charts.
+
+Git/GitHub: For version control of analysis files.
+
+2. Student Performance & Demographics Analysis
+Project Overview
+This project examines the factors influencing academic success in university settings. By analyzing a dataset of student scores in core competencies (Writing, Reading, and Math), the study explores the correlation between gender representation and the completion of test preparation courses.
+
+Key Features & Tasks
+Demographic Profiling: Quantified gender distribution in higher education, highlighting a dominant female student population.
+
+Impact Assessment: Segregated performance data into "Completed" vs. "None" categories for preparation courses to measure academic lift.
+
+Cross-Subject Benchmarking: Analyzed the relationship between different subject scores, noting that reading and writing scores often correlate closely.
+
+Data Visualization:
+
+Pie Charts: Highlighting that female students make up more than two-thirds of the university population in this dataset.
+
+Grouped Bar Charts: Visualizing total scores across Math, Reading, and Writing, providing a clear comparison of aggregate performance between student groups.
+
+Technologies Used
+Microsoft Excel: Data cleaning and visualization.
+
+GitHub: Documentation and project hosting.
+
+Author
+Kamal Yadav B.Tech First Year Student, CSE (AIML)
 <img width="1065" height="613" alt="Screenshot 2026-02-18 at 4 20 00 PM" src="https://github.com/user-attachments/assets/4f843c4e-9689-440d-bc4d-c5788b597f4e" />
 
 
