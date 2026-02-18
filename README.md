@@ -46,6 +46,34 @@ Author: Kamal Yadav
 First-year B.Tech (CSE - AI & ML)
 <------------------------------------------------------SCREEN SHOT--------------------------------------------------------------------------------------------->
 <img width="1065" height="1000" alt="Screenshot 2026-02-13 at 1 03 37 AM" src="https://github.com/user-attachments/assets/815188b2-acb1-4439-b964-a97b148ead8a" /> 
+Student Data Analysis Project (Excel)
+Project Overview
+This project involves a comprehensive analysis of educational data from UK universities using Microsoft Excel. The primary goal was to process student performance data to uncover insights regarding gender distribution, preparation habits, and academic outcomes across core subjects. By transforming raw student data into actionable insights, this project demonstrates how data analysis can be used to evaluate educational effectiveness and student demographics.
+
+Key Features & Tasks
+Data Cleaning: Handled the standardization of student data formats and ensured consistency across subject scores and preparation categories.
+
+Descriptive Analysis: Calculated key performance indicators, including the sum of scores for writing, reading, and math across different student segments.
+
+Data Transformation: Used Excel functions to categorize students based on their completion of preparation courses and gender.
+
+Pivot Tables: Created dynamic summaries to compare performance metrics between students who completed preparation and those who did not.
+
+Data Visualization: Designed a visual dashboard featuring:
+
+Pie charts for gender distribution (Male vs. Female) in universities.
+
+Bar charts comparing subject-wise performance (Math, Reading, Writing) based on preparation status.
+
+Technologies Used
+Microsoft Excel: For data processing, pivot tables, and dashboard creation.
+
+Git & GitHub: For version control and hosting the project repository on macOS.
+
+macOS Terminal: For managing the project environment and resolving repository structural issues.
+
+Author
+Kamal Yadav — B.Tech First Year Student, CSE (AIML)
 <img width="1020"   height="613" alt="Screenshot 2026-02-18 at 4 17 05 PM" src="https://github.com/user-attachments/assets/c04b0048-e2a7-4352-99d5-860a13c93e65" />
 <img width="1065" height="613" alt="Screenshot 2026-02-18 at 4 20 00 PM" src="https://github.com/user-attachments/assets/4f843c4e-9689-440d-bc4d-c5788b597f4e" />
 
